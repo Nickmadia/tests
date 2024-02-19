@@ -1,0 +1,8 @@
+sample_size,correctly_identified,tool
+300,274,hybrid_analisys
+300,250,any_run
+300,266,joe_sandbox
+300,288,virus_total
+300,284,meta_defender
+300,278,comodo
+
